@@ -2,6 +2,7 @@ library fluttermpesa;
 
 class Mpesa {
 
-  var baseUrl="";
+  var productionUrl="https://api.safaricom.co.ke/";
+  var sandboxUrl="https://sandbox.safaricom.co.ke/";
 
 }
