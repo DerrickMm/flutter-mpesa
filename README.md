@@ -11,3 +11,38 @@ Flutter package for mpesa
 
 
 ## Getting Started
+
+* **Depend on it**
+
+Add this to your package's pubspec.yaml file:
+
+
+```
+dependencies:
+  fluttermpesa: ^0.0.1 
+  ```
+* **Install it**
+
+You can install packages from the command line:
+
+with pub:
+
+
+`$ pub get`
+
+with Flutter:
+
+
+`$ flutter pub get`
+
+Alternatively, your editor might support pub get or flutter pub get. Check the docs for your editor to learn more.
+
+* **Import it**
+
+Now in your Dart code, you can use:
+
+
+```
+import 'package:fluttermpesa/fluttermpesa.dart';
+  
+```
