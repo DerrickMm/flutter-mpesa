@@ -1,8 +1,8 @@
 name: fluttermpesa
 description: Flutter package for mpesa
 version: 0.0.1
-author:
-homepage:
+author: Derrick Mungai
+homepage: https://developer.safaricom.co.ke/
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
